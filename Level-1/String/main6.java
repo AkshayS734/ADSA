@@ -1,3 +1,5 @@
+//WAP of Java String Comparison 2 String
+
 import java.util.Scanner;
 public class main6 {
     public static void main(String[] args) {

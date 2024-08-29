@@ -1,3 +1,5 @@
+//WAP to accept a String from User and Display it Back on Screen
+
 import java.util.Scanner;
 public class main1 {
     public static void main(String[] args) {

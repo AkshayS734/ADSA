@@ -1,3 +1,5 @@
+//WAP to accept the First name , Middle Name and Last Name of a person and display full name  and Short Name 
+
 import java.util.Scanner;
 public class main2 {
     public static void main(String[] args) {

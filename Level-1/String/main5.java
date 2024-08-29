@@ -1,3 +1,5 @@
+//WAP to accept a string and count number of Words Present in it
+
 import java.util.Scanner;
 public class main5 {
     public static void main(String[] args) {

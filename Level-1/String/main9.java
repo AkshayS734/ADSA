@@ -1,3 +1,5 @@
+//WAP to accept  word and check if it is palindrome
+
 import java.util.Scanner;
 public class main9 {
     public static void main(String[] args) {

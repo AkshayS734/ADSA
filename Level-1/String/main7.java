@@ -1,3 +1,5 @@
+//WAP to accept a day name and display the Day number
+
 import java.util.Scanner;
 public class main7 {
     public static void main(String[] args) {

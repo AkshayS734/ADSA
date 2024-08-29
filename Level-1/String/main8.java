@@ -1,3 +1,5 @@
+//WAP to accept a String and Convert the case of each alphabet present in it
+
 import java.util.Scanner;
 public class main8 {
     public static void main(String[] args) {

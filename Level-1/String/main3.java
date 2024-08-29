@@ -1,3 +1,5 @@
+//WAP to accept a String and Count number of Capital letters present in it.
+
 import java.util.Scanner;
 public class main3 {
     public static void main(String[] args) {
